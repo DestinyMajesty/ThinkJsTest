@@ -9,6 +9,7 @@ export default class extends Base {
    */
   indexAction(){
     //auto render template file index_index.html
+    //直接显示，啥也不干
     return this.display();
   }
 }

@@ -17,6 +17,7 @@
     // .then((res) =>  console.log("res___------->",res));
 
     //main.js
+    //这是我的react
 import React from 'react';
 import ReactDom from 'react-dom';
 import Component1 from './hello.js';
