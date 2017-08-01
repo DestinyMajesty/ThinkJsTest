@@ -8,5 +8,6 @@ class Component1 extends React.Component {
     }
 }
 //再来测试一次
+//测不准
 //导出组件
 export default Component1;
